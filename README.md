@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/nguyentoanit/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentoanit&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentoanit&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/nguyentoanit/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentoanit&layout=compact&theme=dracula&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentoanit&layout=compact&hide_border=false&count_private=true" />
 </a>
 
 <!--
