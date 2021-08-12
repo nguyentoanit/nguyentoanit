@@ -3,7 +3,7 @@
 - 🔭 I’m currently working remotely on fulltime TypeScript developer. Also, I'm available for freelancer jobs. 💻
 - 🌱 I’m currently learning DDD, AWS-CDK and DevOps skills.
 - 💬 Ask me about PHP, JavaScript/TypeScript and Scala.
-- 📫 How to reach me: [Email](hi.iam.toan.nguyen@gmail.com) 🙋
+- 📫 How to reach me: [Email](mailto:hi.iam.toan.nguyen@gmail.com) 🙋
 
 
 <a href="https://github.com/nguyentoanit/">
