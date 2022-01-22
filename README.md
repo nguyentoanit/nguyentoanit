@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working remotely on fulltime TypeScript developer. Also, I'm available for freelancer jobs. 💻
-- 🌱 I’m currently learning DDD, AWS-CDK, ETL/ELT data pipelines and DevOps skills.
-- 💬 Ask me about PHP, JavaScript/TypeScript and Scala.
+- 🔭 I’m currently working remotely on fulltime TypeScript developer, familiar with Amazon APIs (Amazon Advertising, Amazon Selling Partner, Amazon Seller Business Report). Also, I'm available for freelancer jobs. 💻
+- 🌱 I’m currently learning ETL/ELT data pipelines, DDD, AWS-CDK.
+- 💬 Ask me about JavaScript/TypeScript, PHP or Scala.
 - 📫 How to reach me: [Email](mailto:hi.iam.toan.nguyen@gmail.com) 🙋
 
 
