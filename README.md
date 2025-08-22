@@ -1,14 +1,21 @@
-### Hi there 👋
+## 👋 Hi, I’m Toan Nguyen
 
-- 🔭 I’m currently working remotely on fulltime TypeScript developer, familiar with Amazon APIs (Amazon Advertising, Amazon Selling Partner, Amazon Seller Business Report). Also, I'm available for freelancer jobs. 💻
-- 🌱 I’m currently learning ETL/ELT data pipelines, DDD, AWS-CDK.
-- 💬 Ask me about JavaScript/TypeScript, PHP or Scala.
-- 📫 How to reach me: [Email](mailto:hi.iam.toan.nguyen@gmail.com) 🙋
+💻 **Data Engineer & TypeScript Developer** with a strong track record of building **robust, scalable data pipelines** and developer tools — especially around **Amazon APIs** (Selling Partner API, Advertising API, and Business Reports).
 
+🚀 I specialize in:
+- Designing and maintaining **ETL/ELT pipelines** for high-volume e‑commerce data
+- Developing **fully typed TypeScript SDKs** and backend services
+- Leveraging **AWS** (CDK, Lambda, S3, etc.) to deliver cloud‑native solutions
 
-<a href="https://github.com/nguyentoanit/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentoanit&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/nguyentoanit/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentoanit&theme=highcontrast&layout=compact&hide_border=false&count_private=true" />
-</a>
+💬 Let’s connect if you need:
+- Reliable, production‑ready **Amazon API integrations**
+- Custom data pipelines tailored to your business
+- A developer who can bridge **data engineering** and **backend development** seamlessly
+
+📫 **Reach me at:** [hi.iam.toan.nguyen@gmail.com](mailto:hi.iam.toan.nguyen@gmail.com)  
+🔗 **LinkedIn:** [Toan Nguyen](https://www.linkedin.com/in/nguyentoanit/)
+
+---
+
+![Toan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentoanit&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentoanit&theme=highcontrast&layout=compact&hide_border=false&count_private=true)
