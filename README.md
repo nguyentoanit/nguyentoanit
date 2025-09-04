@@ -12,7 +12,7 @@
 - Custom data pipelines tailored to your business
 - A developer who can bridge **data engineering** and **backend development** seamlessly
 
-📫 **Reach me at:** [hi.iam.toan.nguyen@gmail.com](mailto:hi.iam.toan.nguyen@gmail.com)  
+📫 **Reach me at:** [Here](mailto:hi.iam.toan.nguyen@gmail.com)  
 🔗 **LinkedIn:** [Toan Nguyen](https://www.linkedin.com/in/nguyentoanit/)
 
 ---
