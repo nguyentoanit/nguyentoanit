@@ -1,21 +1,19 @@
-## 👋 Hi, I’m Toan Nguyen
+# 👋 Hi, I’m Toan Nguyen
 
-💻 **Data Engineer & TypeScript Developer** with a strong track record of building **robust, scalable data pipelines** and developer tools — especially around **Amazon APIs** (Selling Partner API, Advertising API, and Business Reports).
+💻 Backend & Data Engineer with 10+ years of experience building robust, scalable systems — from backend services and data pipelines to AWS DevOps using CDK.  
+Specialized in **Amazon APIs** (Selling Partner API, Advertising API) and delivering end‑to‑end solutions that are reliable, secure, and easy to maintain.
 
-🚀 I specialize in:
-- Designing and maintaining **ETL/ELT pipelines** for high-volume e‑commerce data
-- Developing **fully typed TypeScript SDKs** and backend services
-- Leveraging **AWS** (CDK, Lambda, S3, etc.) to deliver cloud‑native solutions
+## 🚀 What I Do
+- Backend development with **JavaScript, TypeScript, Node.js**
+- Design and maintain custom data pipelines for high‑volume e‑commerce data
+- AWS cloud‑native deployments using CDK
+- Effective use of AI tools (GitHub Copilot, Cody AI, Amp AI Agent) to boost productivity and code quality
+- Work independently with full ownership and responsibility
 
-💬 Let’s connect if you need:
-- Reliable, production‑ready **Amazon API integrations**
-- Custom data pipelines tailored to your business
-- A developer who can bridge **data engineering** and **backend development** seamlessly
-
-📫 **Reach me at:** [Here](mailto:hi.iam.toan.nguyen@gmail.com)  
-🔗 **LinkedIn:** [Toan Nguyen](https://www.linkedin.com/in/nguyentoanit/)
+## 📫 Let’s Connect
+- Email: hi.iam.toan.nguyen@gmail.com  
+- LinkedIn: [Toan Nguyen](https://www.linkedin.com/in/nguyentoanit/)  
+- GitHub: [nguyentoanit](https://github.com/nguyentoanit)
 
 ---
-
-![Toan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentoanit&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentoanit&theme=highcontrast&layout=compact&hide_border=false&count_private=true)
+If you’re looking for someone who can bridge backend, data engineering, and DevOps — and deliver high‑quality solutions from start to finish — feel free to reach out!
